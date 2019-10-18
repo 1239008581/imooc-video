@@ -1,0 +1,82 @@
+<view class="video">
+
+  <video id="myVideo" bindtap="bindtap" src="{{src}}" muted="{{false}}" controls="{{false}}" autoplay="{{true}}" loop="{{true}}" enable-progress-gesture="{{false}}" style='width:100%;height:100%;' objectFit='{{cover}}' bindtouchstart='touchStart' bindtouchmove="touchMove" bindtouchend='touchEnd' bindwaiting='bindwaiting' bindplay="bindplay">
+
+    <view class='container'>
+      <!-- 上传视频 -->
+      <image src='../resource/images/camera.png' style='width:50rpx;height:50rpx;' catchtap='upload'></image>
+      <block wx:if="{{isMain}}">
+        <!-- 搜索按钮 -->
+        <image src='../resource/images/search.png' style='width:45rpx;height:45rpx;' catchtap='showSearch'></image>
+      </block>
+    </view>
+
+    <view class='container-me'>
+      <!-- 头像 -->
+      <image class="face" src='{{faceUrl}}' catchtap='showPublisher'></image>
+      <!-- 喜欢收藏按钮 -->
+      <block wx:if="{{userLikeVideo}}">
+        <image class="size-me" src='../resource/images/like.png' style='margin-top:30rpx;' catchtap='likeVideoOrNot'></image>
+      </block>
+      <block wx:else>
+        <image class="size-me" src='../resource/images/unlike.png' style='margin-top:30rpx;' catchtap='likeVideoOrNot'></image>
+      </block>
+      <!-- 评论按钮 -->
+      <image class="size-me" src='../resource/images/comments.png' style='margin-top:30rpx;' catchtap='leaveComment'></image>
+      <!-- 分享按钮 -->
+      <image class="size-me" src='../resource/images/share.png' style='margin-top:30rpx;' catchtap='shareMe'></image>
+    </view>
+
+    <view class='container-words'>
+      <view class="word">@{{publisher.nickname}}</view>
+      <view class="word">{{videoInfo.videoDesc}}</view>
+    </view>
+
+    <view class='container-bottom'>
+      <!-- 首页按钮 -->
+      <image src='../resource/images/index.png' class="size-bottom" catchtap='showIndex'></image>
+      <block wx:if="{{isMain}}">
+        <!-- 我的按钮 -->
+        <image src='../resource/images/mine.png' class="size-bottom" catchtap='showMine'></image>
+      </block>
+    </view>
+    
+    <image class="videoplay" src='../resource/images/play.png' hidden="{{isPlay}}"></image>
+
+  </video>
+</view>
+
+<view class="comments" hidden="{{isHidden}}">
+  <view class="saySthView">
+    <input name="commentContent" class="saySth" placeholder="{{placeholder}}" confirm-type="send" bindconfirm="saveComment" focus='{{commentFocus}}' value='{{contentValue}}' data-replyFatherCommentId='{{replyFatherCommentId}}' data-replyToUserId='{{replyToUserId}}'
+    />
+  </view>
+  <scroll-view scroll-y class="list" bindscrolltolower="commentReachBottom">
+    <block wx:for="{{commentsList}}" wx:key="id">
+      <view class='comments-all' catchtap='replyFocus' data-fatherCommentId='{{item.id}}' data-toUserId='{{item.fromUserId}}' data-toNickname='{{item.nickname}}'>
+        <view class='container-comments'>
+          <block wx:if="{{item.faceImage}}">
+            <image class="face-comments" src='{{serverUrl}}{{item.faceImage}}'></image>
+          </block>
+          <block wx:else>
+            <image class="face-comments" src='{{faceUrl}}'></image>
+          </block>
+          <view class='nickname-comments'>
+            <label class='nickname-lbl'>@{{item.nickname}}</label>
+            于
+            <label class='date-lbl'>{{item.timeAgoStr}}</label>
+            <!-- 留言： -->
+            <block wx:if="{{item.toNickname != null}}">
+              回复
+              <label class='nickname-lbl'>@{{item.toNickname}}</label>
+            </block>
+            <block wx:else>
+              留言：
+            </block>
+          </view>
+        </view>
+        <view class='comments-content'>{{item.comment}}</view>
+      </view>
+    </block>
+  </scroll-view>
+</view>

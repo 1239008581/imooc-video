@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="imooc-video-admin-mng:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="216c2bd3-8647-4b89-b144-be5dea7d9002" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin-common/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin-mng/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin-service/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-video-admin-commen/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-service/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-common/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="center.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/center.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="XML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file</find>
+      <find>bgmServer</find>
+      <find>apiServer</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/imooc-video-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-common/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/UsersService.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/controller/UsersController.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/login.js" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/login.jsp" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/common/menu.jsp" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/resource/db.properties" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/video/addBgm.jsp" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-common/src/main/java/com/imooc/utils/PagedResult.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/bgmList.js" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/web/util.fxml" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/web/util/ZKCurator.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-common/src/main/java/com/imooc/utils/IMoocJSONResult.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/web/util/ZKCurator.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/impl/UsersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/users/usersList.jsp" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/usersList.js" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/reportList.js" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/spring/applicationContext-zookeeper.xml" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/common/commonFooterJS.jsp" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/imooc-video-admin-mapper/src/main/java/com/imooc/mapper/UsersReportMapperCustom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\my_maven_local_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="imooc-video-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="imooc-video-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="center" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.splitter.proportion" value="0.3172691" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pengtong\Desktop\imooc-video-admin\imooc-video-admin-mapper\src\main\java\com\imooc\mapper" />
+      <recent name="C:\Users\pengtong\Desktop\imooc-video-admin\imooc-video-admin-pojo\src\main\java\com\imooc\pojo" />
+      <recent name="C:\Users\pengtong\Desktop\imooc-video-admin\imooc-video-admin-common\src\main\java\com\imooc" />
+      <recent name="C:\Users\pengtong\Desktop\imooc-video-admin\imooc-video-admin-mng\src\main\resources\spring" />
+      <recent name="C:\Users\pengtong\Desktop\imooc-video\imooc-video-admin-service\src\main\java\com\imooc\service\impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.36" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="imooc-video-admin-mng:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="C:/imooc-videos-dev">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mvc" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_imooc-video" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="29496" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="imooc-video-admin-mng:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="216c2bd3-8647-4b89-b144-be5dea7d9002" name="Default" comment="" />
+      <created>1568863671628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568863671628</updated>
+      <workItem from="1568863673756" duration="2649000" />
+      <workItem from="1568880084306" duration="4320000" />
+      <workItem from="1568951360422" duration="15891000" />
+      <workItem from="1569028867743" duration="6086000" />
+      <workItem from="1569035601487" duration="826000" />
+      <workItem from="1569134378450" duration="1816000" />
+      <workItem from="1569294777562" duration="1385000" />
+      <workItem from="1569299093831" duration="5100000" />
+      <workItem from="1569306980662" duration="4722000" />
+      <workItem from="1569391370103" duration="890000" />
+      <workItem from="1569393614720" duration="659000" />
+      <workItem from="1569396940600" duration="1928000" />
+      <workItem from="1569456301103" duration="4203000" />
+      <workItem from="1569468725408" duration="1421000" />
+      <workItem from="1569570162710" duration="3193000" />
+      <workItem from="1569649735543" duration="11118000" />
+      <workItem from="1569672493274" duration="4055000" />
+      <workItem from="1569745689933" duration="1228000" />
+      <workItem from="1569818280046" duration="464000" />
+      <workItem from="1569832981889" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72051000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5013405" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932975" weight="0.42165244" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.15951742" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.17426273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6039886" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.37749287" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32905984" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.0" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/users/usersList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/usersList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/Application.java" />
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2850">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/WarStartApplication.java" />
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/interceptor/MiniInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/WebMvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/UsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-pojo/src/main/java/com/imooc/pojo/Bgm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mapper/src/main/java/com/imooc/mapper/BgmMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="86" lean-forward="true" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/resource/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-common/src/main/java/com/imooc/utils/PagedResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-common/src/main/java/com/imooc/enums/BGMOperatorTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/video/addBgm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="65" column="148" selection-start-line="65" selection-start-column="148" selection-end-line="65" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-common/src/main/java/com/imooc/utils/IMoocJSONResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/bean/AdminUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://accfad94-0bfb-494b-aab5-8c2635eda565/schema/imooc-video-dev/table/bgm" />
+    <entry file="das://accfad94-0bfb-494b-aab5-8c2635eda565/schema/imooc-video-dev/table/videos" />
+    <entry file="das://accfad94-0bfb-494b-aab5-8c2635eda565/schema/imooc-video-dev/table/users" />
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/bgmList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/controller/UsersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-pojo/src/main/java/com/imooc/pojo/vo/Reports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-common/src/main/java/com/imooc/enums/VideoStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/web/util/ZKCurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/impl/UsersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/resources/spring/applicationContext-zookeeper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="74" lean-forward="true" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/video/bgmList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/common/commonFooterJS.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="86" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/users/usersList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/usersList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/common/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/video/reportList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/static/pages/js/reportList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="90" column="71" selection-start-line="90" selection-start-column="71" selection-end-line="90" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/java/com/imooc/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-service/src/main/java/com/imooc/service/impl/VideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="89" column="66" selection-start-line="89" selection-start-column="66" selection-end-line="89" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mapper/src/main/java/com/imooc/mapper/UsersReportMapperCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mapper/src/main/java/com/imooc/mapper/UsersReportMapperCustom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/imooc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="100" column="26" lean-forward="true" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-video-admin-mng/src/main/web/WEB-INF/center/center.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>imooc-video-admin-mng:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29488373" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>imooc-video</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
